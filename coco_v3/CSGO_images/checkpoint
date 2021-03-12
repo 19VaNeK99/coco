@@ -1,0 +1,6 @@
+model_checkpoint_path: "/content/gdrive/My Drive/tresh0.7/coco_v3/CSGO_images/model.ckpt-1328"
+all_model_checkpoint_paths: "/content/gdrive/My Drive/tresh0.7/coco_v3/CSGO_images/model.ckpt-844"
+all_model_checkpoint_paths: "/content/gdrive/My Drive/tresh0.7/coco_v3/CSGO_images/model.ckpt-965"
+all_model_checkpoint_paths: "/content/gdrive/My Drive/tresh0.7/coco_v3/CSGO_images/model.ckpt-1086"
+all_model_checkpoint_paths: "/content/gdrive/My Drive/tresh0.7/coco_v3/CSGO_images/model.ckpt-1207"
+all_model_checkpoint_paths: "/content/gdrive/My Drive/tresh0.7/coco_v3/CSGO_images/model.ckpt-1328"
